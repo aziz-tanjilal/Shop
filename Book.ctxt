@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=name\ contents\ isHardcover\ pageCount
+comment1.target=Book(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment10.params=pageCount
+comment10.target=void\ setPageCount(int)
+comment2.params=
+comment2.target=void\ displayDetails()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getContents()
+comment6.params=contents
+comment6.target=void\ setContents(java.lang.String)
+comment7.params=
+comment7.target=boolean\ isHardcover()
+comment8.params=hardcover
+comment8.target=void\ setHardcover(boolean)
+comment9.params=
+comment9.target=int\ getPageCount()
+numComments=11

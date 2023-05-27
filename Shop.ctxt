@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=
+comment1.target=Shop()
+comment2.params=
+comment2.target=void\ viewBookDetails()
+comment3.params=
+comment3.target=void\ changeBookAttributes()
+comment4.params=
+comment4.target=void\ changeAllBookAttributes()
+comment5.params=
+comment5.target=void\ buyBook()
+comment6.params=
+comment6.target=void\ selectPenColorAndType()
+comment7.params=
+comment7.target=void\ buyPen()
+numComments=8
